@@ -1,0 +1,7 @@
+.vs/ProjectSettings.json
+.vs/
+*.vcxproj
+Game_Engine/x64/Debug/Game_Engine.log
+packages/
+x64/Debug/Game_Engine.exe
+x64/
