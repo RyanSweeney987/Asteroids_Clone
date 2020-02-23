@@ -1,13 +1,13 @@
 #pragma once
-#include "RS_Point.h"
+#include "RS_Vector2.h"
 #include <vector>
 #include <cstdarg>
 
 class RS_Line {
 public:
-	RS_Line(RS_Point p1, RS_Point p2);
-	void setLine(RS_Point p1, RS_Point p2);
-	std::vector<RS_Point>& getPoints();
+	RS_Line(RS_Vector2 p1, RS_Vector2 p2);
+	void setLine(RS_Vector2 p1, RS_Vector2 p2);
+	std::vector<RS_Vector2>& getPoints();
 private:
-	std::vector<RS_Point> points;
+	std::vector<RS_Vector2> points;
 };

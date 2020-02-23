@@ -1,6 +1,8 @@
 #pragma once
 
 #include "SDL.h"
+#include "RS_Time.h"
+#include "RS_GameWorld.h"
 
 class RS_EngineCore {
 public:
@@ -8,13 +10,7 @@ public:
 	~RS_EngineCore();
 	int start();
 private:
-	bool isRunning;
-	SDL_Renderer* renderer;
-	SDL_Window* window;
-	SDL_Event* inputEvent;
 	int run();
 	int stop();
-	void procInput();
-	void update();
-	void render();
+	RS_GameWorld mainWorld;
 };

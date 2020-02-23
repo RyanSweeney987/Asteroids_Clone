@@ -4,7 +4,7 @@
 
 class RS_Triangle : public RS_Shape {
 public:
-	RS_Triangle();
+	RS_Triangle(RS_Vector2 pos, int width, int height);
 private:
 
 };
