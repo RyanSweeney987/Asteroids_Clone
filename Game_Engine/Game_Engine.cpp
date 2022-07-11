@@ -2,6 +2,7 @@
 //
 
 #include <iostream>
+<<<<<<< Updated upstream
 
 #include "SDL.h"
 #include "RS_EngineCore.h"
@@ -12,4 +13,14 @@ int main(int argc, char* argv[])
 {
 	RS_EngineCore game;
 	return game.start();
+=======
+#include "RS_EngineCore.h"
+
+int main(int argc, char* argv[])
+{
+	RS_EngineCore game;
+	game.Start();
+
+	return 0;
+>>>>>>> Stashed changes
 }
