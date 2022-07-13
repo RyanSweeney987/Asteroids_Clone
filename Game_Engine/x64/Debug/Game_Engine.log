@@ -1,0 +1,79 @@
+﻿  EventDispatcher.cpp
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\Game_Engine\EventDispatcher.cpp(6,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Game_Engine.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_math_defines.h(28,1): warning C4005: 'M_PI': macro redefinition
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\packages\sdl2.nuget.2.0.9\build\native\include\SDL_stdinc.h(499): message : see previous definition of 'M_PI'
+  RS_Asteroid.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_math_defines.h(28,1): warning C4005: 'M_PI': macro redefinition
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\packages\sdl2.nuget.2.0.9\build\native\include\SDL_stdinc.h(499): message : see previous definition of 'M_PI'
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\Game_Engine\RS_Asteroid.h(9,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\Game_Engine\RS_Asteroid.h(10,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\Game_Engine\RS_Asteroid.h(10,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\Game_Engine\RS_Asteroid.cpp(20,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\Game_Engine\RS_Asteroid.cpp(29,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  RS_Background.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_math_defines.h(28,1): warning C4005: 'M_PI': macro redefinition
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\packages\sdl2.nuget.2.0.9\build\native\include\SDL_stdinc.h(499): message : see previous definition of 'M_PI'
+  RS_Collider.cpp
+  RS_EngineCore.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_math_defines.h(28,1): warning C4005: 'M_PI': macro redefinition
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\packages\sdl2.nuget.2.0.9\build\native\include\SDL_stdinc.h(499): message : see previous definition of 'M_PI'
+  RS_GameObject.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_math_defines.h(28,1): warning C4005: 'M_PI': macro redefinition
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\packages\sdl2.nuget.2.0.9\build\native\include\SDL_stdinc.h(499): message : see previous definition of 'M_PI'
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\Game_Engine\RS_GameObject.cpp(11,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\Game_Engine\RS_GameObject.cpp(12,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  RS_GameWorld.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_math_defines.h(28,1): warning C4005: 'M_PI': macro redefinition
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\packages\sdl2.nuget.2.0.9\build\native\include\SDL_stdinc.h(499): message : see previous definition of 'M_PI'
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\Game_Engine\RS_GameWorld.cpp(94,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\Game_Engine\RS_GameWorld.cpp(95,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\Game_Engine\RS_GameWorld.cpp(96,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\Game_Engine\RS_GameWorld.cpp(97,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\Game_Engine\RS_GameWorld.cpp(112,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\Game_Engine\RS_GameWorld.cpp(113,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\Game_Engine\RS_GameWorld.cpp(114,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\Game_Engine\RS_GameWorld.cpp(115,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  RS_Input.cpp
+  RS_Logger.cpp
+  RS_MainGame.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_math_defines.h(28,1): warning C4005: 'M_PI': macro redefinition
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\packages\sdl2.nuget.2.0.9\build\native\include\SDL_stdinc.h(499): message : see previous definition of 'M_PI'
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\Game_Engine\RS_Asteroid.h(9,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\Game_Engine\RS_Asteroid.h(10,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\Game_Engine\RS_Asteroid.h(10,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\Game_Engine\RS_MainGame.cpp(139,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\Game_Engine\RS_MainGame.cpp(139,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  RS_PhysicsSolver.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_math_defines.h(28,1): warning C4005: 'M_PI': macro redefinition
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\packages\sdl2.nuget.2.0.9\build\native\include\SDL_stdinc.h(499): message : see previous definition of 'M_PI'
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\Game_Engine\RS_PhysicsSolver.cpp(13,55): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\Game_Engine\RS_PhysicsSolver.cpp(14,55): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\Game_Engine\RS_PhysicsSolver.cpp(17,55): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\Game_Engine\RS_PhysicsSolver.cpp(18,55): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  RS_Player.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_math_defines.h(28,1): warning C4005: 'M_PI': macro redefinition
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\packages\sdl2.nuget.2.0.9\build\native\include\SDL_stdinc.h(499): message : see previous definition of 'M_PI'
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\Game_Engine\RS_Player.cpp(58,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\Game_Engine\RS_Player.cpp(67,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  RS_Sound.cpp
+  RS_SoundManager.cpp
+  RS_Sprite.cpp
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\Game_Engine\RS_Sprite.cpp(147,19): warning C4018: '<': signed/unsigned mismatch
+  RS_Texture.cpp
+  RS_TextureManager.cpp
+  RS_Time.cpp
+  RS_Timer.cpp
+  Generating Code...
+  Compiling...
+  RS_TitleScreen.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_math_defines.h(28,1): warning C4005: 'M_PI': macro redefinition
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\packages\sdl2.nuget.2.0.9\build\native\include\SDL_stdinc.h(499): message : see previous definition of 'M_PI'
+  RS_Transform.cpp
+  RS_Vector2.cpp
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\Game_Engine\RS_Vector2.cpp(10,52): warning C4244: 'initializing': conversion from 'const int' to 'float', possible loss of data
+C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\Game_Engine\RS_Vector2.cpp(10,62): warning C4244: 'initializing': conversion from 'const int' to 'float', possible loss of data
+  ScreenText.cpp
+  RS_WindowController.cpp
+  Generating Code...
+  Game_Engine.vcxproj -> C:\Users\ryan2\OneDrive - University of Lincoln\Year 2\Game Programming - CGP2015M\Assignments\Repo\Asteroids_Clone\x64\Debug\Game_Engine.exe
